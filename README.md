@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **on my Programming Skills**
 
-- 🌱 I’m currently studying Computer Science Engineering **studying Computer Science Engineering**
+- 🌱 I’m currently **Studying Computer Science Engineering**
 
 - 👯 I’m looking to collaborate **with other Developers**
 
