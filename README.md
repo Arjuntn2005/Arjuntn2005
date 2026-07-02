@@ -46,8 +46,13 @@ A Python-based music theory assistant for generating musical scales and chords.
 
 ### 📊 Data & Analytics
 
-- 🐼 Pandas
-- 📈 Power BI
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+* 🐼 Pandas
+* 📈 Power BI
+* 📄 Google Sheets
 
 ### 🛠 Developer Tools
 <p>
