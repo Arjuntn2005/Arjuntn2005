@@ -23,48 +23,67 @@
 ### 📌 Collabio
 A collaborative workspace for creators to collect, organize, and manage inspirations from multiple platforms.
 
-**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, Supabase
+**Tech Stack:** React • Next.js • TypeScript • Tailwind CSS • Supabase
 
 ### 🎵 PyTune
 A Python-based music theory assistant for generating musical scales and chords.
 
-**Tech Stack:** Python, HTML, CSS
+**Tech Stack:** Python • HTML • CSS
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
 </p>
 
-### Database & Backend
+### ⚙️ Frameworks & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-### Data & Analytics
+### 📊 Data & Analytics
 
 - 🐼 Pandas
-- 📊 Power BI
+- 📈 Power BI
+
+### 🛠 Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+---
+
+## 🧠 Core CS Skills
+
+- 🧩 Data Structures & Algorithms
+- 🏗️ Object-Oriented Programming (OOP)
+- 🗄️ Database Management Systems (DBMS)
+- 💻 Operating Systems
+- 🌐 Computer Networks
+- ⚡ Problem Solving
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/arjun-t-n-977841203" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://instagram.com/ar_ju_n_tn" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="mailto:tnarjun2@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/arjun-t-n-977841203" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://instagram.com/ar_ju_n_tn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="mailto:tnarjun2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 ---
