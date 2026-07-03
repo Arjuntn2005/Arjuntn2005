@@ -86,6 +86,9 @@ A Python-based music theory assistant for generating musical scales and chords.
   <a href="https://instagram.com/ar_ju_n_tn" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
+  <a href="https://leetcode.com/u/IkExU0lNkR/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+  </a>
   <a href="mailto:tnarjun2@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
