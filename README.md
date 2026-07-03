@@ -81,19 +81,18 @@ A Python-based music theory assistant for generating musical scales and chords.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arjun-t-n-977841203" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
   </a>
   <a href="https://instagram.com/ar_ju_n_tn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="45"/>
   </a>
   <a href="https://leetcode.com/u/IkExU0lNkR/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="45"/>
   </a>
   <a href="mailto:tnarjun2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="45"/>
   </a>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
