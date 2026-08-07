@@ -41,8 +41,9 @@ A Python-based music theory assistant for generating musical scales and chords.
 
 ### ⚙️ Frameworks & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase" />
+  <img src="https://skillicons.dev/icons?i=supabase,fastapi" />
 </p>
+
 
 ### 📊 Data & Analytics
 
