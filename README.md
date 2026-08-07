@@ -64,7 +64,6 @@ A Python-based music theory assistant for generating musical scales and chords.
 <p>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
-
 ---
 
 ## 🧠 Core CS Skills
