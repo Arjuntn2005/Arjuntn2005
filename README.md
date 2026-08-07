@@ -57,7 +57,7 @@ A Python-based music theory assistant for generating musical scales and chords.
 
 ### 🛠 Developer Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 🎨 Design Tools
