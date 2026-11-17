@@ -17,21 +17,6 @@
 - 📫 Reach me at **tnarjun2@gmail.com**
 
 ---
-
-## 🚀 Featured Projects
-
-### 📌 Collabio
-A collaborative workspace for creators to collect, organize, and manage inspirations from multiple platforms.
-
-**Tech Stack:** React • Next.js • TypeScript • Tailwind CSS • Supabase
-
-### 🎵 PyTune
-A Python-based music theory assistant for generating musical scales and chords.
-
-**Tech Stack:** Python • HTML • CSS
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
